@@ -3,11 +3,11 @@
 ## 🎯 Task Overview
 This project is part of the **Future Interns Full Stack Web Development Internship (Task 3)**. The goal is to build a professional website for a real local business to help them grow their online presence and attract more customers.
 
-### ☕ About the Business: Phyna Coffie Bar
-The Phyna Coffie Bar, community-focused coffee house that small-batch roasted coffee and handmade pastries. While they have a loyal local following, they lack a professional digital presence to reach new customers and showcase their unique offerings.
+### ☕ About the Business: Phyna Coffee Bar
+The Phyna Coffee Bar, community-focused coffee house that small-batch roasted coffee and handmade pastries. While they have a loyal local following, they lack a professional digital presence to reach new customers and showcase their unique offerings.
 
 ### 🚀 The Pitch
-**Problem:** Phyna Coffie Bar currently relies solely on word-of-mouth and a basic social media page. Potential customers searching for "best coffee near me" or wanting to see a menu before visiting cannot find a centralized, professional source of information.
+**Problem:** Phyna Coffee Bar currently relies solely on word-of-mouth and a basic social media page. Potential customers searching for "best coffee near me" or wanting to see a menu before visiting cannot find a centralized, professional source of information.
 
 **Solution:** A high-end, responsive website that:
 - **Builds Trust:** Premium design reflecting the artisan quality of their coffee.
