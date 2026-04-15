@@ -3,11 +3,11 @@
 ## 🎯 Task Overview
 This project is part of the **Future Interns Full Stack Web Development Internship (Task 3)**. The goal is to build a professional website for a real local business to help them grow their online presence and attract more customers.
 
-### ☕ About the Business: The Rustic Bean Coffee House
-The Rustic Bean is a cozy, community-focused coffee house that specializes in artisan, small-batch roasted coffee and handmade pastries. While they have a loyal local following, they lack a professional digital presence to reach new customers and showcase their unique offerings.
+### ☕ About the Business: Phyna Coffie Bar
+The Phyna Coffie Bar, community-focused coffee house that small-batch roasted coffee and handmade pastries. While they have a loyal local following, they lack a professional digital presence to reach new customers and showcase their unique offerings.
 
 ### 🚀 The Pitch
-**Problem:** The Rustic Bean currently relies solely on word-of-mouth and a basic social media page. Potential customers searching for "best coffee near me" or wanting to see a menu before visiting cannot find a centralized, professional source of information.
+**Problem:** Phyna Coffie Bar currently relies solely on word-of-mouth and a basic social media page. Potential customers searching for "best coffee near me" or wanting to see a menu before visiting cannot find a centralized, professional source of information.
 
 **Solution:** A high-end, responsive website that:
 - **Builds Trust:** Premium design reflecting the artisan quality of their coffee.
@@ -15,7 +15,7 @@ The Rustic Bean is a cozy, community-focused coffee house that specializes in ar
 - **Increases Accessibility:** Clear location, hours, and contact information with one-click navigation.
 - **Attracts Customers:** Beautiful visual gallery and testimonials to convert visitors into diners.
 
-**Benefit:** By establishing a professional online storefront, The Rustic Bean can increase its organic reach, provide better customer service through readily available information, and position itself as a premium choice in the local coffee scene.
+**Benefit:** By establishing a professional online storefront, The Phyna Coffie Bar can increase its organic reach, provide better customer service through readily available information, and position itself as a premium choice in the local coffee scene.
 
 ---
 
