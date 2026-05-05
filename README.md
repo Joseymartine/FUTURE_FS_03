@@ -1,4 +1,4 @@
-# FUTURE_FS_03: The Rustic Bean Coffee House
+# FUTURE_FS_03: PHYNA COFFEE BAR
 
 ## 🎯 Task Overview
 This project is part of the **Future Interns Full Stack Web Development Internship (Task 3)**. The goal is to build a professional website for a real local business to help them grow their online presence and attract more customers.
